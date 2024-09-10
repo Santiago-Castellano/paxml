@@ -16,7 +16,7 @@ pyglove
 seqio-nightly
 t5
 tensorflow~=2.12.1
-tensorflow-text~=2.9.0
+tensorflow-text
 tensorstore
 tensorflow-datasets==4.8.3
 tfds-nightly==4.8.3.dev202303280045
