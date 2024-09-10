@@ -47,7 +47,7 @@ install_requires = _get_requirements()
 
 setup(
     name='paxml',
-    version='1.4.0',  # use major/minor version number, e.g. "0.1.0"
+    version='1.4.1',  # use major/minor version number, e.g. "0.1.0"
     description=(
         'Framework to configure and run machine learning experiments '
         'on top of Jax.'
@@ -57,7 +57,7 @@ setup(
     packages=find_namespace_packages(include=['paxml*']),
     python_requires='>=3.10',
     install_requires=install_requires,
-    url='https://github.com/google/paxml',
+    url='https://github.com/Santiago-Castellano/paxml',
     license='Apache-2.0',
     extras_require={
         'gpu': ['jsonlines==3.1.0', 'pysimdjson==5.0.2', 'zstandard==0.18.0'],
