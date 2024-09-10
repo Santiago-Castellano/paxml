@@ -57,7 +57,7 @@ setup(
     packages=find_namespace_packages(include=['paxml*']),
     python_requires='>=3.10',
     install_requires=install_requires,
-    url='https://github.com/Santiago-Castellano/paxml',
+    url='https://github.com/google/paxml',
     license='Apache-2.0',
     extras_require={
         'gpu': ['jsonlines==3.1.0', 'pysimdjson==5.0.2', 'zstandard==0.18.0'],
