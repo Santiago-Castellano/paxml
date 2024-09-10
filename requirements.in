@@ -6,7 +6,7 @@ clu @ git+https://github.com/google/CommonLoopUtils
 etils
 flax @ git+https://github.com/google/flax
 graphviz
-jax @ git+https://github.com/google/jax
+jax
 lingvo
 numpy
 orbax-checkpoint @ git+https://github.com/google/orbax/#subdirectory=checkpoint
