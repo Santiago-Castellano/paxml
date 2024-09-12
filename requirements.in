@@ -6,12 +6,11 @@ clu @ git+https://github.com/google/CommonLoopUtils
 etils
 flax @ git+https://github.com/google/flax
 graphviz
-jax
+jax @ git+https://github.com/google/jax
 lingvo
 numpy
 orbax-checkpoint @ git+https://github.com/google/orbax/#subdirectory=checkpoint
 praxis
-protobuf
 pyglove
 seqio-nightly
 t5
@@ -19,5 +18,6 @@ tensorflow>=2.12.1
 tensorflow-text
 tensorstore
 tensorflow-datasets
-tfds-nightly==4.8.3.dev202303280045
+tfds-nightly==4.9.4
 tensorflow-metadata
+protobuf
