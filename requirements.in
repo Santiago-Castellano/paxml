@@ -2,7 +2,7 @@
 # bash ./compile_requirements.sh
 
 absl-py
-clu @ git+https://github.com/google/CommonLoopUtils
+clu==0.0.9
 etils
 flax @ git+https://github.com/google/flax
 graphviz
