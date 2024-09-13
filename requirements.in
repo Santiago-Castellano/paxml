@@ -18,6 +18,6 @@ tensorflow>=2.12.1
 tensorflow-text
 tensorstore
 tensorflow-datasets
-tfds-nightly==4.9.4
+tfds-nightly>=4.9.4
 tensorflow-metadata
 protobuf
