@@ -4,12 +4,12 @@
 absl-py
 clu==0.0.9
 etils
-flax @ git+https://github.com/google/flax
+flax==0.9.0
 graphviz
-jax @ git+https://github.com/google/jax
+jax>=0.4.30
 lingvo
 numpy
-orbax-checkpoint @ git+https://github.com/google/orbax/#subdirectory=checkpoint
+orbax-checkpoint==0.6.3
 praxis
 pyglove
 seqio-nightly
